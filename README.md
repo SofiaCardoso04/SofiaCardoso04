@@ -9,4 +9,4 @@
  - 🌱 Currently exploring new technologies to improve user experiences
  - 📌 Always looking for new challenges
 
-![SofiaCardoso04's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiaCardoso04&show_icons=true&theme=radical)
+![SofiaCardoso04's GitHub stats](https://github-readme-stats.vercel.app/api?username=SofiaCardoso04&show_icons=true&theme=dracula)
